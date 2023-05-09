@@ -14,5 +14,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Cem2204&icon=1&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Cem2204&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

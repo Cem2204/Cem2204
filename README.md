@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)]()
+[![MasterHead](https://camo.githubusercontent.com/f6a2c625bbd9c52c6847d8368066acb566beb36e08b157577a34d070d03078bf/68747470733a2f2f692e696d6775722e636f6d2f7051574937676e2e676966)]()
 <h1 align="center">Hi 👋, I'm Cem Yurtdas</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/25/63/8c/25638ca8b85cccc2d210923f86f3368b.gif">

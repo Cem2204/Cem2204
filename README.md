@@ -1,6 +1,7 @@
+[![MasterHead](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)]()
 <h1 align="center">Hi 👋, I'm Cem Yurtdas</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/25/63/8c/25638ca8b85cccc2d210923f86f3368b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cem2204&label=Profile%20views&color=0e75b6&style=flat" alt="cem2204" /> </p>
 
 <p align="left"> <a href="https://twitter.com/cemyurtdas" target="blank"><img src="https://img.shields.io/twitter/follow/cemyurtdas?logo=twitter&style=for-the-badge" alt="cemyurtdas" /></a> </p>

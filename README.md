@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/cemyurtdas" target="blank"><img src="https://img.shields.io/twitter/follow/cemyurtdas?logo=twitter&style=for-the-badge" alt="cemyurtdas" /></a> </p>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **C++** and **Swift**
 
 - 💬 Ask me about **Python, Swift**
 

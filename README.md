@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/cemyurtdas" target="blank"><img src="https://img.shields.io/twitter/follow/cemyurtdas?logo=twitter&style=for-the-badge" alt="cemyurtdas" /></a> </p>
 
-- 🌱 I’m currently learning **C++** and **Swift**
+- 🌱 I’m currently learning **Flutter** , **Rust** and **Swift**
 
-- 💬 Ask me about **Python, Swift**
+- 💬 Ask me about **Flutter, Python, Rust, Swift**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

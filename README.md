@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h2 align="left">My name is Cem and I'm a Mobile Developer, from Turkey</h2>
+<h2 align="left">My name is Cem and I'm a Mobile Developer from Turkey</h2>
 
 ###
 

@@ -11,7 +11,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently working on a Flutter App<br>🌱 I’m currently learning Flutter and Rust<br>💬 Ask me about Python and Flutter
+🔭 I’m currently working on a Flutter App<br>🌱 I’m currently learning Flutter and dotNet Core<br>💬 Ask me about Python and Flutter
 
 
 ## 🌐 Socials:
